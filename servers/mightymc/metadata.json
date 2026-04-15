@@ -1,11 +1,12 @@
 {
     "id": "mightymc",
-    "name": "MightyMC Server",
-    "website": "https://mightymc.club",
-    "store": "https://mightymc.club/store",
+    "name": "MightyMC.club",
+    "website": "https://mightymc.net",
+    "store": "https://mightymc.net/store",
     "description": "Practice, Bedwars, Skywars, PvP",
     "addresses": [
-        "mightymc.club"
+        "mightymc.club",
+        "mightymcsmp.xyz"
     ],
     "primaryAddress": "mightymc.club",
     "primaryColor": "#44a1e3",
@@ -34,11 +35,11 @@
     ],
     "socials": {
         "instagram": "mightymc.club",
-        "discord": "https://discord.gg/Ur2bZbuHhc"
+        "discord": "https://discord.gg/mightymc"
     },
     "compliance": {
-        "privacyPolicy": "https://mightymc.club/privacypolicy",
-        "termsOfService": "https://mightymc.club/termsofservice",
-        "rules": "https://mightymc.club/rules"
+        "privacyPolicy": "https://mightymc.net/privacypolicy",
+        "termsOfService": "https://mightymc.net/termsofservice",
+        "rules": "https://mightymc.net/rules"
     }
 }
